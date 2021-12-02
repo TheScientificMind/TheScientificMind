@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheScientificMind.
+- 👀 I’m interested in coding and game design.
+- 🌱 I’m currently learning C#, JavaScript, and HTML.
+- 💞️ I’m looking to collaborate on video game design and minecraft mods/plugins.
+- 📫 I will share a method to reach me another time.
