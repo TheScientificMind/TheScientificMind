@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @TheScientificMind.
-- 👀 I’m interested in coding and game design.
-- 🌱 I’m currently learning C# snd Python
-- 💞️ I’m looking to collaborate on video game design and minecraft mods/plugins.
+- 👀 I’m interested in game design, machine learning, electrical engineering, and quantum computing
+- 🌱 I’m currently learning C#, Python, HTML/CSS, JavaScript, etc.
+- 💞️ I’m looking to collaborate on video game design and all sorts of other things.
