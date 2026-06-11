@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheScientificMind.
-- 👀 I’m interested in game design, machine learning, electrical engineering, and quantum computing
-- 🌱 I’m currently learning C#, Python, HTML/CSS, JavaScript, etc.
-- 💞️ I’m looking to collaborate on video game design and all sorts of other things.
+- I'm a physics major at Rice University.
+- Interests: AMO physics, quantum computing, condensed matter physics, etc.
+- Languages of interest: Python, Matlab, Mathematica, etc.
+- Currently working on programming an FPGA for AMO applications, using the QICK library.
